@@ -1,6 +1,12 @@
+body{
+	font-family: "Adelle Sans", SansSerif;
+}
 
 .tableContain {
-	border: rgba(255, 255, 255, .7);
+	border: rgba(0, 0, 0, .7);
+	width: 50%;
+	margin: auto;
+	padding-top: 5%;
 }
 
 .complaintTable {
@@ -11,5 +17,9 @@
 
 .tableHead {
 	background-color: lightgray;
+}
+
+td {
+	margin-left: 2% ;
 }
 
