@@ -1,3 +1,15 @@
+
+.tableContain {
+	border: rgba(255, 255, 255, .7);
+}
+
+.complaintTable {
+	background-color: aliceblue;
+	width: 100%;
+	height: auto;
+}
+
 .tableHead {
 	background-color: lightgray;
 }
+
